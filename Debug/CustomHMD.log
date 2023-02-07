@@ -1,0 +1,8 @@
+﻿  CustomHMD.cpp
+E:\vr arduino\vr custom drivers\CustomHMD\SerialRead.h(34,32): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+E:\vr arduino\vr custom drivers\CustomHMD\CustomHMD.cpp(330,30): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+E:\vr arduino\vr custom drivers\CustomHMD\CustomHMD.cpp(331,30): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+E:\vr arduino\vr custom drivers\CustomHMD\CustomHMD.cpp(808): warning C4715: CSampleControllerDriver::GetSerialNumber: значение возвращается не при всех путях выполнения
+  LINK : не найден или не выполнена сборка E:\vr arduino\vr custom drivers\CustomHMD\\Release\x64\driver_CustomHMD.dll при последней инкрементной компоновке; выполняется полная компоновка
+     Создается библиотека E:\vr arduino\vr custom drivers\CustomHMD\\Release\x64\driver_CustomHMD.lib и объект E:\vr arduino\vr custom drivers\CustomHMD\\Release\x64\driver_CustomHMD.exp
+  CustomHMD.vcxproj -> E:\vr arduino\vr custom drivers\CustomHMD\Release\x64\driver_CustomHMD.dll

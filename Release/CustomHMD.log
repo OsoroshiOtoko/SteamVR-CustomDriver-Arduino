@@ -1,0 +1,10 @@
+﻿  CustomHMD.cpp
+E:\vr arduino\vr custom drivers\CustomHMD\CustomHMD.cpp(330,30): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+E:\vr arduino\vr custom drivers\CustomHMD\CustomHMD.cpp(331,30): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     Создается библиотека E:\vr arduino\vr custom drivers\CustomHMD\\Release\x86\driver_CustomHMD.lib и объект E:\vr arduino\vr custom drivers\CustomHMD\\Release\x86\driver_CustomHMD.exp
+  Создание кода
+  Compiler switch has changed, fall back to full compilation.
+E:\vr arduino\vr custom drivers\CustomHMD\CustomHMD.cpp(808): warning C4715: CSampleControllerDriver::GetSerialNumber: значение возвращается не при всех путях выполнения
+  All 261 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  CustomHMD.vcxproj -> E:\vr arduino\vr custom drivers\CustomHMD\Release\x86\driver_CustomHMD.dll
